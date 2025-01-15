@@ -1,5 +1,5 @@
 # Capstone_Project
-# Only For Educational Purpose Usage only
+# Only For Educational Purpose Usage.
 
 
 # Image Processing and Deep Learning Pipeline
